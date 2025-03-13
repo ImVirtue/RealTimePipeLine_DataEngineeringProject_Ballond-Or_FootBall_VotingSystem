@@ -28,6 +28,7 @@ This project intends to simulate the creation of a real-time Ballon d'Or Voting 
 - **Docker Compose**: To orchestrate the deployment of the above technologies.
 
 ## Data Pipeline
+![image](image/system_architecture.drawio.png)
 
 ## Visualizations
 
