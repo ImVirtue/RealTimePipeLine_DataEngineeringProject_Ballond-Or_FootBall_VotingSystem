@@ -15,7 +15,7 @@
 This project intends to simulate the creation of a real-time Ballon d'Or Voting system that manages all of the results of candidates (footballers) and the total of votes that they have. Storing data of voters in a PostgreSQL database, transform and load in real-time by Kafka and Spark Structured Streaming. Finally, visualize the result on the website hosted by Streamlit.
 
 ## Features
-- **Automated ETL Pipeline**: Using Apache Spark and Kafka to automate the process of collecting data from API voters, transforming into a usable format.
+- **Automated ETL Pipeline**: Using Apache Spark and Kafka to automate the process of collecting data from API voters, transforming it into a usable format.
 - **Data Visualization**: Leveraging Streamlit to create interesting and real-time visualizations for the result of voting.
 - **Docker Compose Setup**: The project uses Docker Compose to streamline the deployment and management of the required services, including Apache Kafka, Apache Spark, Apache ZooKeeper and PostgreSQL.
 
@@ -31,6 +31,7 @@ This project intends to simulate the creation of a real-time Ballon d'Or Voting 
 ![image](image/system_architecture.drawio.png)
 
 ## Visualizations
+![realtime_visualization](https://github.com/user-attachments/assets/e6894672-c05d-4af2-863d-e66b636dd45d)
 
 ## Conclusion
-  
+- The focal purpose of this project is to utilize the power of Kafka and Spark Structured Streaming to constantly collect data from voters and visualize that data, simulating a real-time voting system.
