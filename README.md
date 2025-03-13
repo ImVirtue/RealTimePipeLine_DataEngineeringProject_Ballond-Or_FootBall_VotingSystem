@@ -31,7 +31,8 @@ This project intends to simulate the creation of a real-time Ballon d'Or Voting 
 ![image](image/system_architecture.drawio.png)
 
 ## Visualizations
-![realtime_visualization](https://github.com/user-attachments/assets/e6894672-c05d-4af2-863d-e66b636dd45d)
+![realtime_visualization](https://github.com/user-attachments/assets/53014a4c-48f4-4f60-9a14-0d2b6776e9d1)
+
 
 ## Conclusion
 - The focal purpose of this project is to utilize the power of Kafka and Spark Structured Streaming to constantly collect data from voters and visualize that data, simulating a real-time voting system.
