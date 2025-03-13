@@ -44,7 +44,7 @@ if __name__ == '__main__':
         .format("kafka") \
         .option("kafka.bootstrap.servers", "localhost:9092") \
         .option("topic", "aggregated_votes_per_candidate") \
-        .option("checkpointLocation", "/home/davidntd/PycharmProjects/RealTime_DataEngineeringProject_Ballond'Or_FootBall_VotingSystem/checkpoints/checkpoint1") \
+        .option("checkpointLocation", "RealTime_DataEngineeringProject_Ballond'Or_FootBall_VotingSystem/checkpoints/checkpoint1") \
         .outputMode("complete") \
         .start()
 

@@ -10,10 +10,10 @@ st.sidebar.title("Sidebar Menu")
 st.title("Ballond'Or Voting")
 
 # Đường dẫn ảnh
-leo_img = "/home/davidntd/PycharmProjects/RealTime_DataEngineeringProject_Ballond'Or_FootBall_VotingSystem/image/leo.jpg"
-cr7_img = "/home/davidntd/PycharmProjects/RealTime_DataEngineeringProject_Ballond'Or_FootBall_VotingSystem/image/cr7.jpeg"
-ney_img = "/home/davidntd/PycharmProjects/RealTime_DataEngineeringProject_Ballond'Or_FootBall_VotingSystem/image/neymar.jpg"
-iniesta_img = "/home/davidntd/PycharmProjects/RealTime_DataEngineeringProject_Ballond'Or_FootBall_VotingSystem/image/iniesta.jpg"
+leo_img = "RealTime_DataEngineeringProject_Ballond'Or_FootBall_VotingSystem/image/leo.jpg"
+cr7_img = "RealTime_DataEngineeringProject_Ballond'Or_FootBall_VotingSystem/image/cr7.jpeg"
+ney_img = "RealTime_DataEngineeringProject_Ballond'Or_FootBall_VotingSystem/image/neymar.jpg"
+iniesta_img = "RealTime_DataEngineeringProject_Ballond'Or_FootBall_VotingSystem/image/iniesta.jpg"
 
 # Cấu hình Kafka Consumer
 consumer_conf = {
