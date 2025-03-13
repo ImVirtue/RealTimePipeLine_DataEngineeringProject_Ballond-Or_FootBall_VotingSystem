@@ -32,6 +32,7 @@ This project intends to simulate the creation of a real-time Ballon d'Or Voting 
 
 ## Visualizations
 ![realtime_visualization](https://github.com/user-attachments/assets/53014a4c-48f4-4f60-9a14-0d2b6776e9d1)
+![image](image/voting_img.png)
 
 
 ## Conclusion
