@@ -31,7 +31,7 @@ This project intends to simulate the creation of a real-time Ballon d'Or Voting 
 ![image](image/system_architecture.drawio.png)
 
 ## Visualizations
-- **Video**: Focus on the stats of voting to see the real-time changes
+- **Video**: Focus on the stats of voting to see the real-time changes - The leading candidate will automatically show up on the screen instead of the other candidates
 ![realtime_visualization](https://github.com/user-attachments/assets/53014a4c-48f4-4f60-9a14-0d2b6776e9d1)
 - **Result**:
 ![image](image/voting_img.png)
